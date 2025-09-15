@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0150c50a-c5de-4006-9889-733b713aba6c
+:END:
+#+title: MidiPatch
+|     | 1       | 2       | 3       | 4      | 5    | 6       |                  7 |             8 | 9        | 10 |
+|-----+---------+---------+---------+--------+------+---------+--------------------+---------------+----------+----|
+| In  | Hapax A | Hapax B | M8      | VS1680 | Moog | Ensoniq |                    |               | x        |  x |
+| Out | Hapax A | Hapax B | Hapax C | M8     | Moog | Ensoniq | Hydrasynth & Virus | ER-1 & Granny | Volca FM |    |
